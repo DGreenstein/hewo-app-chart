@@ -1,5 +1,4 @@
-name: hello world app
-home: https://github.com/DGreenstein/helloworld
-version: 0.0.1
-sources:
-- https://github.com/DGreenstein/helloworld
+apiVersion: v1
+description: A Hello World web app, deployed as a chart for Kubernetes
+name: HelWoApp
+version: 0.1.0
