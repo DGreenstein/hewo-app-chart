@@ -1,4 +1,4 @@
-node('default'){
+node(){
     checkout scm
     build job: "helloworldapp", wait: true
     container('kubectl') {
