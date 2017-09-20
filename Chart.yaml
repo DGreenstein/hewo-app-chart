@@ -1,4 +1,4 @@
 apiVersion: v1
 description: A Hello World web app, deployed as a chart for Kubernetes
-name: HelWoApp
+name: hewo-app-chart
 version: 0.1.0
